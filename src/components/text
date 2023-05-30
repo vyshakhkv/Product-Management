@@ -1,0 +1,16 @@
+let handleDelete=(id,productName)=>{
+    fetch(`http://localhost:1800/products/${id}`,{
+    method:'DELETE'
+ } )
+ alert(`${productName} will be deleted permenantly`)
+}
+
+let navigate=useNavigate();
+   
+    let handleEdit=(id)=>{
+      
+      if(location.pathname == '/admin/edit'){
+           navigate(`/admin/view-prod/${id}`)
+    }
+   
+   }

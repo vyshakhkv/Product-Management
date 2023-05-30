@@ -1,0 +1,9 @@
+.prod_table{
+    background-color: rgb(204, 204, 215);
+    width: 450px;
+}
+
+.prod_table img{
+    width: 125px;
+    height: 125px;
+}

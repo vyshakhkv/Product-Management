@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "productName": "Mobile",
+      "description": "samsung mobile",
+      "price": "22000",
+      "file": "",
+      "url": "https://react.dev/images/og-home.png",
+      "id": 1
+    },
+    {
+      "productName": "LAPTOP",
+      "description": "HP LAP",
+      "price": "100000",
+      "file": "",
+      "url": "https://consumerqueen.com/wp-content/uploads/2017/03/Asus-Laptop-1.jpeg",
+      "id": 2
+    }
+  ]
+}
